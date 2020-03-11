@@ -1,2 +1,2 @@
 # Pong_Game
-Pong Game using Pythontkinter 
+Pong Game using Pythont kinter 
